@@ -1,0 +1,311 @@
+# [*] boku_to_nurse_no_kenshuu_nisshi 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/28064.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52825.m3u8
+
+
+# [*] yarimoku_beach_ni_shuugakuryokou 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33713.m3u8
+
+# [*] nudist_beach_ni_shuugakuryokou_de 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52158.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52166.m3u8
+
+
+# [*] toshi_denetsu_series 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/31313.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32732.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33362.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33503.m3u8
+
+
+# [*] resorn_boin 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/30736.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/30739.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/30742.m3u8
+
+
+# [*] otome_hime 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/46520.m3u8
+
+
+# [*] shikkoku-no-shaga 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52476.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/30463.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/55747.m3u8
+
+
+# [*] joshi_ochi_2_kai_kara_onnanoko_ga_futte_kita 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/28301.m3u8
+
+
+# [*] drop_out 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32090.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32510.m3u8
+
+
+# [*] ochi_mono_rpg_seikishi_luvilias 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/48227.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/51254.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52035.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52893.m3u8
+
+
+# [*] jk_bitch_ni_shiboraretai 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33095.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33167.m3u8
+
+
+# [*] kutsujoku 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52133.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52643.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54767.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/55402.m3u8
+
+
+# [*] sagurare_otome 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33500.m3u8
+
+
+# [*] joshi_luck 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/51339.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/51769.m3u8
+
+
+# [*] kyonyuu_reijou_mc_gakuen 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33572.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33647.m3u8
+
+
+# [*] hime_sama_love_life 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/46629.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/51283.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/53525.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54759.m3u8
+
+
+# [*] kanojo_ga_yatsu_ni_dakareta_hi 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/55458.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/56404.m3u8
+
+
+# [*] tamashii_insert 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33770.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/31595.m3u8
+
+
+# [*] energy_kyouka 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32540.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32759.m3u8
+
+
+# [*] tenioha 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33086.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33089.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/47367.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54216.m3u8
+
+
+# [*] kyonyuu_fantasy 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29597.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29600.m3u8
+
+
+# [*] baka_dakedo 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33749.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33794.m3u8
+
+
+# [*] kanojo_x_kanojo_x_kanojo 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/30077.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/30080.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/30083.m3u8
+
+# [*] ecchi_na_onee_chan_ni_shiboraretai 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/47329.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/48292.m3u8
+
+
+# [*] namaiki_kissuisou_e_youkoso 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33455.m3u8
+
+
+# [*] fela_pure_mitarashi_san_chi_no_jijou 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/30987.m3u8
+
+
+# [*] shikijou_kyoudan 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/53786.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54003.m3u8
+
+
+# [*] chiisana_tsubomi–no_sono_oku_ni 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54224.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54735.m3u8
+
+
+# [*] chichi_iro_toiki 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29618.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29621.m3u8
+
+
+# [*] kimi_omou_koi 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/28106.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/42337.m3u8
+
+
+# [*] ijirare_fukushuu_saimin 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/56708.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/56716.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/56956.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/56964.m3u8
+
+
+# [*] gakuen_de_jikan_yo_tamare 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29907.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29910.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29180.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/30792.m3u8
+
+
+# [*] aibeya 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52587.m3u8
+
+
+# [*] kiss_hug 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52965.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/53762.m3u8
+
+
+# [*] rape_gouhouka 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/28376.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/28409.m3u8
+
+
+# [*] marshmallow_imouto_succubus 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32285.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32570.m3u8
+
+
+# [*] ane_kyun 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33545.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/51437.m3u8
+
+
+# [*] itadaki_seieki 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32744.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32747.m3u8
+
+
+# [*] kakushi_dere 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29588.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29591.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29594.m3u8
+
+
+# [*] kuroinu 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/28504.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/28509.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/28512.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/28515.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/28232.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/28112.m3u8
+
+
+# [*] fuzzy_lips 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32900.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32903.m3u8
+
+
+# [*] isekai_harem_monogatari 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/55192.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/55635.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/56188.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/56372.m3u8
+
+
+# [*] koi_maguwai 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/34743.m3u8
+
+
+# [*] shoujo_ramune 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33626.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/33629.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/31742.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/31970.m3u8
+
+
+# [*] saimin_seishidou 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/27072.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/34711.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/56212.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/56220.m3u8
+
+
+# [*] baku_ane_otouto_shibocchau_zo 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54427.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54435.m3u8
+
+
+# [*] baka_na_imouto 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32600.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32753.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32909.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/32978.m3u8
+
+
+# [*] youkoso_sukebe_elf_no_mori 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/31877.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/31955.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54839.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/55208.m3u8
+
+
+# [*] master_piece 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/46614.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/51313.m3u8
+
+
+# [*] reunion 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/31235.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/31238.m3u8
+
+
+# [*] love_x_holic 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52573.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52839.m3u8
+
+
+# [*] knight_of_erin 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/55948.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/56180.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/56932.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/57140.m3u8
+
+
+# [*] mankitsu_happening 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29941.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29944.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/30250.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/29066.m3u8
+
+
+# [*] overflow 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/53738.m3u8
+
+
+# [*] lovely_heart 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/52233.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/53594.m3u8
+
+
+# [*] enjo_kouhai 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/53514.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/53746.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/53938.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54192.m3u8
+
+
+# [*] tropcial_kiss 20210401
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54813.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54821.m3u8
+# https://weeb.hanime.tv/weeb-api-cache/api/v8/m3u8s/54869.m3u8
